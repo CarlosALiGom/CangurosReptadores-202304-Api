@@ -1,6 +1,5 @@
 {
-  "page": 1,
-  "results": [
+  "movies": [
     {
       "adult": false,
       "backdrop_path": "/gMJngTNfaqCSCqGD4y8lVMZXKDn.jpg",
