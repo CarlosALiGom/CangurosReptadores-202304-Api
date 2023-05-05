@@ -53,7 +53,7 @@
       "vote_average": 7.7
     },
     {
-      "adult": false,
+      "adult": true,
       "backdrop_path": "https://image.tmdb.org/t/p/w500/xwA90BwZXTh8ke3CVsQlj8EOkFr.jpg",
       "id": 948713,
       "original_language": "en",
@@ -79,7 +79,7 @@
       "vote_average": 7.3
     },
     {
-      "adult": false,
+      "adult": true,
       "backdrop_path": "https://image.tmdb.org/t/p/w500/bT3IpP7OopgiVuy6HCPOWLuaFAd.jpg",
       "id": 638974,
       "original_language": "en",
@@ -92,7 +92,7 @@
       "vote_average": 6.5
     },
     {
-      "adult": false,
+      "adult": true,
       "backdrop_path": "https://image.tmdb.org/t/p/w500/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg",
       "id": 713704,
       "original_language": "en",
@@ -105,7 +105,7 @@
       "vote_average": 7
     },
     {
-      "adult": false,
+      "adult": true,
       "backdrop_path": "https://image.tmdb.org/t/p/w500/nDmPjKLqLwWyd4Ssti8HCdhW5cZ.jpg",
       "id": 1048300,
       "original_language": "en",
